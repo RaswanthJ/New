@@ -1,0 +1,28 @@
+*{
+    background-color: #222;
+    color:aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    margin: 40px auto;
+    padding: 10px 20px;
+    max-width: 650px;
+    line-height: 1.2;
+}
+
+a{
+    color: rgba(35, 204, 204, 0.788);
+}
+
+.moodle{
+    color: #f98012;
+}
+
+.webmail{
+    color: #a50b02;
+}
+
+img{
+    border-radius: 10%;
+}
